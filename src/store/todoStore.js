@@ -1,6 +1,6 @@
 import {defineStore} from "pinia";
 
-export const todoStore = defineStore({
+export const todoStore = defineStore("todoStore",{
     state: () => ({
         todoList: [],
         favList: []
