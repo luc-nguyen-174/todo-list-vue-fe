@@ -1,4 +1,4 @@
-# homestay
+# Todo List
 
 ## Project setup
 ```
